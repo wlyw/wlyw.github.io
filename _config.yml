@@ -14,7 +14,7 @@ blog:
     qiniu:null                                               # 七牛云地址
 author:
     name:wlyw                                                # 作者名称
-    email:                                               # 邮箱地址
+    email:null                                               # 邮箱地址
     weibo:http://weibo.com/2058535374                                               # 微博地址
     github:https://github.com/wlyw                                              # GitHub地址
     logo:/res/img/wlyw.jpg                                                # logo地址

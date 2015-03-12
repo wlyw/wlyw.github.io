@@ -1,0 +1,23 @@
+markdown: kramdown
+highlighter: pygments
+permalink: blog/:year/:month/:day/:title.html
+paginate: 6
+paginate_path: page/:num
+
+blog:
+    name:wlyw                                                # 博客名称
+    description:talk is cheap！                                         # 博客描述
+    title:wlyw's Blog                                               # 网页标题
+    url:wlyw.github.io                                                 # 博客地址
+    duoshuo:null                                             # 多说ID
+    tongji:null                                              # 百度统计ID
+    qiniu:null                                               # 七牛云地址
+author:
+    name:wlyw                                                # 作者名称
+    email:                                               # 邮箱地址
+    weibo:http://weibo.com/2058535374                                               # 微博地址
+    github:https://github.com/wlyw                                              # GitHub地址
+    logo:/res/img/wlyw.jpg                                                # logo地址
+    douban:
+        name:null                                            # 豆瓣地址名称
+        key:null                                             # 豆瓣API Key

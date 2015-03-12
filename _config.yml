@@ -5,19 +5,20 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name:wlyw                                                # 博客名称
-    description:talk is cheap！                                         # 博客描述
-    title:wlyw's Blog                                               # 网页标题
-    url:wlyw.github.io                                                 # 博客地址
-    duoshuo:null                                             # 多说ID
-    tongji:null                                              # 百度统计ID
-    qiniu:null                                               # 七牛云地址
+    name: wlyw
+    description: Talk is cheap！
+    title: wlyw的博客
+    url: wlyw.github.io
+    url_optional: page/category.html
+    duoshuo: jerboa-ustc
+    tongji: 5b7c5e628d67aebd886da7a1e9bd02ed
+    qiniu: http://jerboa.qiniudn.com
 author:
-    name:wlyw                                                # 作者名称
-    email:null                                               # 邮箱地址
-    weibo:http://weibo.com/2058535374                                               # 微博地址
-    github:https://github.com/wlyw                                              # GitHub地址
-    logo:/res/img/wlyw.jpg                                                # logo地址
+    name: wlyw
+    email: XXX@gmail.com
+    weibo: http://weibo.com/u/2058535374
+    github: https://github.com/wlyw
+    logo: /res/img/wlyw.jpg
     douban:
-        name:null                                            # 豆瓣地址名称
-        key:null                                             # 豆瓣API Key
+        name: 杀猪的
+        key: 02f94cd8ecd5d67508ebe68ac681835f

@@ -10,10 +10,9 @@
   icon:  fa fa-book
   title: 阅读
 
-- href: /life/index.html
+- href: /page/Record.html
   icon:  fa fa-eyedropper
   title: 记录
-  newblank: true
 
 - href: /page/about.html
   icon: fa fa-paper-plane-o
